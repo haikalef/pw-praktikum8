@@ -1,0 +1,84 @@
+{
+    "menu" : [
+        {
+            "jenis" : "Coffee",
+            "nama" : "Black Angel",
+            "deskripsi" : "Kopi mocktail rasa kiwi",
+            "harga" : "15k",
+            "estimasi" : "5 menit",
+            "gambar" : "kopi-kiwi.png"
+        },
+        {
+            "jenis" : "Coffee",
+            "nama" : "Ber.art",
+            "deskripsi" : "Kopi mocktail rasa pisang",
+            "harga" : "15k",
+            "estimasi" : "5 menit",
+            "gambar" : "kopi-pisang.jpg"
+        },
+        {
+            "jenis" : "coffee",
+            "nama" : "Slanted Hat",
+            "deskripsi" : "Kopi mocktail rasa nanas",
+            "harga" : "15k",
+            "estimasi" : "5 menit",
+            "gambar" : "kopi-nanas.jpg"
+        },
+        {
+            "jenis" : "coffee",
+            "nama" : "Avocado Coffee",
+            "deskripsi" : "Kopi pokat",
+            "harga" : "17k",
+            "estimasi" : "5 menit",
+            "gambar" : "kopi-pokat.jpg"
+        },
+        {
+            "jenis" : "coffee",
+            "nama" : "Salted Caramel Coffee",
+            "deskripsi" : "Kopi salted caramel",
+            "harga" : "17k",
+            "estimasi" : "5 menit",
+            "gambar" : "salted-caramel.jpg"
+        },
+        {
+            "jenis" : "coffee",
+            "nama" : "Sanger",
+            "deskripsi" : "Kopi susu",
+            "harga" : "13k",
+            "estimasi" : "5 menit",
+            "gambar" : "sanger.jpg"
+        },
+        {
+            "jenis" : "coffee",
+            "nama" : "Americano",
+            "deskripsi" : "Kopi hitam, espresso dulu lalu air panas",
+            "harga" : "10k",
+            "estimasi" : "5 menit",
+            "gambar" : "americano.jpg"
+        },
+        {
+            "jenis" : "coffee",
+            "nama" : "Long Black",
+            "deskripsi" : "Kopi hitam, air panas dulu lalu espresso",
+            "harga" : "10k",
+            "estimasi" : "5 menit",
+            "gambar" : "long-black.jpg"
+        },
+        {
+            "jenis" : "tea",
+            "nama" : "Ice Tea",
+            "deskripsi" : "Es teh manis",
+            "harga" : "8k",
+            "estimasi" : "5 menit",
+            "gambar" : "es-teh.jpg"
+        },
+        {
+            "jenis" : "tea",
+            "nama" : "Lemon Tea",
+            "deskripsi" : "Teh lemon",
+            "harga" : "10k",
+            "estimasi" : "5 menit",
+            "gambar" : "lemon-tea.jpg"
+        }
+    ]
+}
